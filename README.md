@@ -1,4 +1,11 @@
-Employee Management System consists of 2 sections. Employee Management and Department Management.  
+Employee Management System consists of 2 sections. Employee Management and Department Management. 
+
+Requirements:  
+
+-> Build CRUD REST API's for Employee Management Module
+-> Build Frontend React App for Employee Management Module  
+-> Build CRUD REST API's for Department Management Module
+-> Build Frontend React App for Department Management Module  
 
 Tech Stack used:  
 1. Spring Boot  
